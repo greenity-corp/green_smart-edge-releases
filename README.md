@@ -3,7 +3,7 @@
 이 저장소는 **Edge 제품의 승인된 공개 릴리즈만** 제공합니다. 현재 게시된 제품 릴리즈는 없습니다.
 
 - 릴리즈 목록: [Edge Releases](https://github.com/greenity-corp/green_smart-edge-releases/releases)
-- 전체 구성요소 안내: [GreenSmart 릴리즈 홈](https://github.com/greenity-corp/green_smart-deploy)
+- 전체 구성요소 안내: [GreenSmart 릴리즈 홈](https://github.com/greenity-corp/greensmart_release)
 
 ## 분리 원칙
 
